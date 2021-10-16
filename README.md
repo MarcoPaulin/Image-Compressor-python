@@ -1,2 +1,2 @@
 # Image-Compressor
-create image with limited color
+create an compressed image with limited color
